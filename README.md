@@ -12,7 +12,7 @@ To get the best experience and the stable version of this tool, **please downloa
 
 ### 📥 How to Download & Use:
 
-1. **Go to Releases:** Navigate to the **[Releases](#)** section on the right side of this GitHub repository.
+1. **Go to Releases:** Navigate to the <a href="https://github.com/om0770/CV-Resume_maker_by_Om-Photom_Designs-/releases/tag/CV_maker_by_Om(Photom_Designs)"> **[Releases](#)** </a> section on the right side of this GitHub repository.
 2. **Download:** Click on the latest version and download the provided `.zip` or `.html` file.
 3. **Open:** Extract the file (if zipped) and double-click `CV-Resume Maker by Om.html` to open it in any modern web browser (Chrome, Edge, Firefox, Brave).
 4. **Fill the Form:** Use the sleek, step-by-step wizard to enter your personal details, education, experience, and skills.
